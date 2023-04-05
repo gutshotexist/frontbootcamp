@@ -9,7 +9,7 @@ const Hero = ({ heading, message }) => {
         <h2 className="text-5xl font-bold">{heading}</h2>
         <p className="py-5 text-xl">{message}</p>
         <a
-          href="https://long-sun-4450.on.fleek.co/"
+          href="https://nft-gallery-murex-five.vercel.app/"
           rel="noopener noreferrer"
           className="px-8 py-2 border"
         >
