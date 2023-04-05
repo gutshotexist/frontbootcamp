@@ -48,7 +48,7 @@ const Navbar = () => {
             </Link>
           </li>
           <li className="p-4">
-            <Link href="https://long-sun-4450.on.fleek.co/">Launch App</Link>
+            <Link href="https://nft-gallery-murex-five.vercel.app/">Launch App</Link>
           </li>
         </ul>
 
@@ -85,7 +85,7 @@ const Navbar = () => {
               onClick={handleNav}
               className="p-4 text-4xl hover:text-gray-500"
             >
-              <Link href="https://long-sun-4450.on.fleek.co/">Opensea</Link>
+              <Link href="https://nft-gallery-murex-five.vercel.app/">Opensea</Link>
             </li>
             <li
               onClick={handleNav}
