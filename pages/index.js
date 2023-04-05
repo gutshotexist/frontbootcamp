@@ -15,7 +15,7 @@ export default function Home() {
       </Head>
       <Hero
         heading="Pixel Cats"
-        message="Find your own unique pixel cats🐱. We are live 🚀"
+        message="Find your own unique pixel cat🐱. We are live 🚀"
       />
       <Slider slides={SliderData} />
       <Instagram />
